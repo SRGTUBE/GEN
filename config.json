@@ -1,0 +1,19 @@
+{
+    "prefix": ",",
+    "genChannel": "1361682738658414692",
+    "pgenChannel": "1361689767707803648",  
+    "servername" : "Earth Gen #ComeBack",
+    "website": "https://shulker-network.netlify.app/",
+    "genCooldown": "0",
+    "genCooldownsec": "0",
+    "color": {
+        "green": "0x57F287",
+        "yellow": "0xFEE75C",
+        "red": "0xED4245",
+        "default": "0x5865F2"
+    },
+    "command": {
+        "notfound_message": true,
+        "error_message": true
+    }
+}
